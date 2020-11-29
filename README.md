@@ -1,25 +1,25 @@
 ### Hi there 👋
 
-![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=for-the-badge&logo=CSS3&logoColor=default)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-35495c?style=for-the-badge&logo=TypeScript&logoColor=default)
-![Less](https://img.shields.io/badge/-Less-090909?style=for-the-badge&logo=Less&logoColor=default)
-![React Native](https://img.shields.io/badge/-React_Native-45b8d8?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/-Python-375A81?style=for-the-badge&logo=Python&logoColor=default)
-![Jest](https://img.shields.io/badge/-Jest-f1f3f5?style=for-the-badge&logo=Jest&logoColor=red)
+![Vue.JS](https://img.shields.io/badge/-Vue.js-35495c?&style=flat-square&logo=vue.js&logoColor=default)
+![React Native](https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![React.JS](https://img.shields.io/badge/-React.js-35495c?&style=flat-square&logo=React&logoColor=default)
+![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat-square&logo=CSS3&logoColor=default)
+![Jest](https://img.shields.io/badge/-Jest-f1f3f5?style=flat-square&logo=Jest&logoColor=red)
+![TypeORM](https://img.shields.io/badge/-TypeORM-f1f3f5?style=flat-square&logo=databricks&logoColor=orange)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 
 ### 😃 My Profile
 
-![Sheraton Xu's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djvim&langs_count=6&layout=compact&theme=react&hide_border=true)
+![Sheraton Xu's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djvim&langs_count=6&layout=compact&theme=midnight-purple&hide_border=true)
 
-![Sheraton Xu's Stats](https://github-readme-stats.vercel.app/api/?username=djvim&layout=compact&theme=react&hide_border=true)
+![Sheraton Xu's Stats](https://github-readme-stats.vercel.app/api/?username=djvim&layout=compact&theme=midnight-purple&hide_border=true)
 
 ### 👤 Sheraton Xu
 
-- 🔭 I’m currently working on Express.js
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on Angular
+- 🌱 I’m currently learning NoSQL
 
 - 💬 Ask me about everything
 - 😄 Pronouns: He/Him
